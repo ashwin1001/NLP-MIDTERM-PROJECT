@@ -1,5 +1,9 @@
 # NLP-MIDTERM-PROJECT
-finding noun-attribute and noun-event relationship
+
+Before running the code kindly download the graph datastructure and also copy the .pkl extension files from the link https://drive.google.com/open?id=1ul953o98oJmYA4ia806vvy1ZBanZ6jy1 
+
+
+finding noun-attribute and noun-event relationship.
 Simply run the file by providing appropriate garph path to the module.
 The codes are as follows:-
 cc.py-code for finding the cludtering coeficient values
